@@ -14,7 +14,7 @@ $ yarn install
 ```
 
 ## Usage
-edit `.env` file with following code
+edit `.env` file with following code, this project using `mysql by default` if you want changing database type the configuration in `src/shared/services/database-connection.service.ts`
 ```python
 DATABASE_HOST = "localhost"
 DATABASE_PORT = 3306
