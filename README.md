@@ -35,6 +35,7 @@ open `localhost:3000/api/docs`
 - authentication with `passport and jwt strategy`  [documentation](https://docs.nestjs.com/techniques/authentication)
 - OpenApi `nestjs/swagger`[documentation](https://docs.nestjs.com/recipes/swagger)
 - example todo CRUD operation using `nestjsx/crud`
+- `TypeOrm` [documentation](https://docs.nestjs.com/recipes/sql-typeorm)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
