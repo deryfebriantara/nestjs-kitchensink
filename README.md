@@ -29,6 +29,7 @@ and you are ready to go
 $ yarn start:dev
 
 ```
+open `localhost:3000/api/docs`
 ## Feature
 - `nestjsx/crud` [documentation](https://github.com/nestjsx/crud)
 - authentication with `passport and jwt strategy`  [documentation](https://docs.nestjs.com/techniques/authentication)
