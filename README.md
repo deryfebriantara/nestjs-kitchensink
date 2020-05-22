@@ -23,7 +23,12 @@ DATABASE_PASSWORD = "your_pass"
 DATABASE_DB = "your_db"
 
 ```
-and you are ready to go
+## RUN TESTS
+
+```bash
+$ yarn test
+```
+if the test is all green and you are ready to go
 ```bash
 
 $ yarn start:dev
