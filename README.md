@@ -23,7 +23,7 @@ DATABASE_PASSWORD = "your_pass"
 DATABASE_DB = "your_db"
 
 ```
-## RUN TESTS
+## Run test
 
 ```bash
 $ yarn test
