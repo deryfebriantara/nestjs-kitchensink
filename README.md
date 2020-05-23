@@ -23,12 +23,8 @@ DATABASE_PASSWORD = "your_pass"
 DATABASE_DB = "your_db"
 
 ```
-## Run test
 
-```bash
-$ yarn test
-```
-if the test is all green and you are ready to go
+and you are ready to go
 ```bash
 
 $ yarn start:dev
@@ -41,6 +37,12 @@ open `localhost:3000/api/docs`
 - OpenApi `nestjs/swagger`[documentation](https://docs.nestjs.com/recipes/swagger)
 - example todo CRUD operation using `nestjsx/crud`
 - `TypeOrm` [documentation](https://docs.nestjs.com/recipes/sql-typeorm)
+
+## Run test
+
+```bash
+$ yarn test
+```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
